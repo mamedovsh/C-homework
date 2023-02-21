@@ -1,0 +1,5 @@
+C:\Users\sjagi\OneDrive\Desktop\seminar2array\obj\Debug\net6.0\seminar2array.csproj.AssemblyReference.cache
+C:\Users\sjagi\OneDrive\Desktop\seminar2array\obj\Debug\net6.0\seminar2array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjagi\OneDrive\Desktop\seminar2array\obj\Debug\net6.0\seminar2array.AssemblyInfoInputs.cache
+C:\Users\sjagi\OneDrive\Desktop\seminar2array\obj\Debug\net6.0\seminar2array.AssemblyInfo.cs
+C:\Users\sjagi\OneDrive\Desktop\seminar2array\obj\Debug\net6.0\seminar2array.csproj.CoreCompileInputs.cache
